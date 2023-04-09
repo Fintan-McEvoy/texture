@@ -1,4 +1,4 @@
 CPython==0.0.6
 IPython==7.16.1
 opencv-python-headless
-skikit-image==0.17.2
+skikit-image==0.19.3
