@@ -1,6 +1,6 @@
 CPython==0.0.6
 IPython==7.23.1
-opencv-python-headless
+opencv-python
 scikit-image==0.19.3
 numpy>=1.14.3
 matplotlib>=3.0.2
