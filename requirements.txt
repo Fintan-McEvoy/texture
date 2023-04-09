@@ -1,5 +1,5 @@
 CPython==0.0.6
 IPython==7.16.1
-cv2==none
+opencv-python-headless
 csv==1.0
 skimage==0.17.2
