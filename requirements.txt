@@ -1,5 +1,5 @@
 CPython==3.6.13
 IPytho==7.16.1
-cv2=>3.4.2
-csv=>1.0
-skimage=>0.17.2
+cv2==3.4.2
+csv==1.0
+skimage==0.17.2
