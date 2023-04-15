@@ -1,5 +1,5 @@
 CPython==0.0.4
-IPython==7.16.1
+IPython==7.23.1
 opencv-python-headless
 scipy
 watermark
