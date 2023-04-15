@@ -1,2 +1,2 @@
 # texture
-Texture analysis for ultarsound images submitted to Frontiers in Veterinary Science
+Texture analysis for ultrasound images submitted to Frontiers in Veterinary Science
