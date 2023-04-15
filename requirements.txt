@@ -1,4 +1,4 @@
-CPython==3.6.13
+CPython==0.0.4
 IPython==7.16.1
 cv2==3.4.2
 csv==1.0
