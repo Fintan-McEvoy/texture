@@ -2,7 +2,6 @@ CPython==0.0.4
 IPython==7.16.1
 opencv-python-headless
 scipy
-skimage
 watermark
 
 
