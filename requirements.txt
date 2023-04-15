@@ -2,5 +2,4 @@ CPython==0.0.6
 IPython==7.23.1
 opencv-python==4.3.0.38
 scikit-image==0.19.3
-numpy
 
